@@ -23,16 +23,19 @@ ruby tsp.rb
 Program menerima masukan file .txt di dalam folder tes sebagai _matrix adjacency_ yang merepresentasikan bobot antara dua simpul yang berhubungan. Program menggunakan prinsip optimalitas dalam pendekatan _dynamic programming_ dengan meninjau setiap urutan kombinasi simpul dan membandingkan setiap kemungkinan untuk mendapatkan biaya minimum di setiap tahapan rute. Dengan cara ini, program secara efisien dapat menentukan rute dengan total biaya minimum dalam melewati setiap simpul dalam graf.
 
 _test case_ 1:
+
 ![](images/tes1.png)
 ![](images/tes1baca.png)
 ![](images/tes1hasil.png)
 
 _test case_ 2:
+
 ![](images/tes2.png)
 ![](images/tes2baca.png)
 ![](images/tes2hasil.png)
 
 _test case_ 3:
+
 ![](images/tes3.png)
 ![](images/tes3baca.png)
 ![](images/tes3hasil.png)
